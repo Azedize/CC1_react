@@ -5,11 +5,13 @@ const traductions = {
   },
   EN: {
     title: "Hello and welcome to the site.",
-    txt: "Bienvenido a mi sitio, su destino en línea para obtener una descripción sucinta de su sitio. Nos apasiona su área de negocio o interés, y nuestra misión es servir al propósito del sitio.",
+    txt: "Welcome to my site, your online destination for a succinct description of your site. We are passionate about your area of ​​business or interest, and our mission is to serve the purpose of the site.",
+
   },
   ES: {
     title: "Hola y bienvenido al sitio.",
-    txt: "Welcome to my site, your online destination for a succinct description of your site. We are passionate about your area of ​​business or interest, and our mission is to serve the purpose of the site.",
+    txt: "Bienvenido a mi sitio, su destino en línea para obtener una descripción sucinta de su sitio. Nos apasiona su área de negocio o interés, y nuestra misión es servir al propósito del sitio.",
+
   },
 };
 
